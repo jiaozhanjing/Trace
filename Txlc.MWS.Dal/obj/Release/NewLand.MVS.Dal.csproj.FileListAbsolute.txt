@@ -1,0 +1,14 @@
+E:\NewLand\HZMVS\Develop\SourceCode\Code\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.dll
+E:\NewLand\HZMVS\Develop\SourceCode\Code\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.pdb
+E:\NewLand\HZMVS\Develop\SourceCode\Code\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.dll
+E:\NewLand\HZMVS\Develop\SourceCode\Code\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.pdb
+E:\苟伟伟交接\交接代码\Code\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.dll
+E:\苟伟伟交接\交接代码\Code\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.pdb
+E:\苟伟伟交接\交接代码\Code\NewLandMVS\NewLand.MVS.Dal\obj\Release\ResolveAssemblyReference.cache
+E:\苟伟伟交接\交接代码\Code\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.dll
+E:\苟伟伟交接\交接代码\Code\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.pdb
+F:\城东项目\20151019\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.dll
+F:\城东项目\20151019\NewLandMVS\NewLand.MVS.Dal\bin\Release\NewLand.MVS.Dal.pdb
+F:\城东项目\20151019\NewLandMVS\NewLand.MVS.Dal\obj\Release\ResolveAssemblyReference.cache
+F:\城东项目\20151019\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.dll
+F:\城东项目\20151019\NewLandMVS\NewLand.MVS.Dal\obj\Release\NewLand.MVS.Dal.pdb

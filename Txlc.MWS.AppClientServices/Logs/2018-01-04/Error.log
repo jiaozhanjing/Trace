@@ -1,0 +1,87 @@
+1. 信息: >> 操作时间: 2018-01-04 14:20:21   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/standardMarketList    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取批发市场运行达标情况异常：{"Sign":"","data":{"CheckMonth":"2018-01","CheckYear":null,"GoodsType":null,"CompName":null,"IsStandard":null,"PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 14:20:38   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/standardMarketList    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取批发市场运行达标情况异常：{"Sign":"","data":{"CheckMonth":"2018-01","CheckYear":null,"GoodsType":null,"CompName":null,"IsStandard":"-1","PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:38:06   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardList    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取数据-达标情况列表情况异常：{"Sign":"","data":{"CheckMonth":"2018-01","CompName":null,"IsStandard":"-1","PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00936: 缺失表达式
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:39:53   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardList    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取数据-达标情况列表情况异常：{"Sign":"","data":{"CheckMonth":"2018-01","CompName":null,"IsStandard":null,"PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00936: 缺失表达式
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:44:46   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardMarket    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取数据-达标情况-批发市场异常：{"Sign":"","data":{"CheckMonth":"2018-01","CompName":null,"IsStandard":null,"PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00904: "DATA_NUMBER": 标识符无效
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:45:12   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardMarket    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取数据-达标情况-批发市场异常：{"Sign":"","data":{"CheckMonth":"2018-01","CompName":null,"IsStandard":"-1","PageSize":0,"PageIndex":0,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00904: "DATA_NUMBER": 标识符无效
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:45:40   操作人: 1111111 
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardMarket    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  : 111111111   主机: localhost:17694   浏览器:     
+5. 内容: 111111
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:48:59   操作人: 1111111 
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardMarket    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  : 111111111   主机: localhost:17694   浏览器:     
+5. 内容: 111111
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:49:32   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/dataUpStandardMarket    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取数据-达标情况-批发市场异常：{"Sign":"","data":{"CheckMonth":"2018-01","CompName":null,"IsStandard":"-1","PageSize":10,"PageIndex":1,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00904: "DATA_NUMBER": 标识符无效
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:55:29   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/equipment/compUserDetail    
+3. 类名: Trace.AppServices.Controller.EquController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 设备领用明细异常：{"Sign":"","data":{"EquTypeCode":"1001","CompTypeCode":"0001","CompName":null,"PageSize":10,"PageIndex":1,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:列“comp_type_code”不属于表 temptable。]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 15:59:25   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/equipment/compUserDetail    
+3. 类名: Trace.AppServices.Controller.EquController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 设备领用明细异常：{"Sign":"","data":{"EquTypeCode":"1001","CompTypeCode":"0001","CompName":null,"PageSize":10,"PageIndex":1,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:列“comp_type_code”不属于表 temptable。]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 16:03:34   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/trend/marketPrice    
+3. 类名: Trace.AppServices.Controller.TrendController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 批发价格异常：{"Sign":"","data":{"StartTime":"2017-12-01","EndTime":"2018-01-10","PageSize":10,"PageIndex":1,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01861: 文字与格式字符串不匹配
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2018-01-04 16:11:53   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/retail/retailCheckList    
+3. 类名: Trace.AppServices.Controller.RetailController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 农贸考核排名异常：{"Sign":"","data":{"CheckDay":null,"CompId":null,"PageSize":10,"PageIndex":1,"UserId":"a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------

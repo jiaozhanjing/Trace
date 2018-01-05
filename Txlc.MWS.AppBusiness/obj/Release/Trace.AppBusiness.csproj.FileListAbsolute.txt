@@ -1,0 +1,11 @@
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Trace.AppModel.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Dal.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Util.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Newtonsoft.Json.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Trace.AppModel.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Dal.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\obj\Release\Trace.AppBusiness.csprojResolveAssemblyReference.cache
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Trace.AppBusiness.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\bin\Release\Trace.AppBusiness.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\obj\Release\Trace.AppBusiness.dll
+E:\work2\suyuanapp\Txlc.MWS.AppBusiness\obj\Release\Trace.AppBusiness.pdb

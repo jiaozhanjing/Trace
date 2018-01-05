@@ -1,0 +1,11 @@
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.AppBusiness.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.AppBusiness.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.AppModel.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Dal.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Util.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Newtonsoft.Json.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.AppModel.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\obj\Release\Txlc.MWS.AppBusiness.csprojResolveAssemblyReference.cache
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\obj\Release\Txlc.MWS.AppBusiness.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\obj\Release\Txlc.MWS.AppBusiness.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppBusiness\bin\Release\Txlc.MWS.Dal.pdb

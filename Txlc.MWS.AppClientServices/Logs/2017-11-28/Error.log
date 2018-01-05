@@ -1,0 +1,27 @@
+1. 信息: >> 操作时间: 2017-11-28 10:00:18   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/pay/payRecord    
+3. 类名: Txlc.MWS.AppClientServices.Controller.PayController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 缴费记录异常：{"Sign":"","data":{"UserId":"1000600100040","PayStartTime":"2017-11-27","PayEndTime":"2017-11-28","PayType":"-1","IdNumber":"330184199502073518","Year":null,"PageSize":10,"PageIndex":1},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00703: 列表中具有指定参数的多个实例
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-28 14:27:05   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/pay/otherFeeList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.PayController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 杂费记录异常：{"Sign":"","data":{"UserId":"1000600100040","PayStartTime":null,"PayEndTime":null,"PayType":0,"IdNumber":"330184199502073518","Year":null,"YearMonth":"2017","PageSize":10,"PageIndex":1},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'PRO_APP_PAY_COST' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-28 17:09:14   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/certificate/cerList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.CerCardController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 分销凭证列表异常：{"Sign":"","data":{"UserId":"1000600100040","CerStartDate":"2017-11-28 12:00:00","CerEndDate":"2017-11-29 12:00:00","PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01861: 文字与格式字符串不匹配
+]
+-----------------------------------------------------------------------------------------------------------------------------

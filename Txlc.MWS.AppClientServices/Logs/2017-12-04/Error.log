@@ -1,0 +1,14 @@
+1. 信息: >> 操作时间: 2017-12-04 18:00:07   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/order/orderList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.OrderController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 获取订单列表异常：{"Sign":"","data":{"UserId":"1000600100040","QRConent":null,"TraceCode":null,"IsPay":"1001","OrderId":null,"PageSize":10,"PageIndex":1},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00918: 未明确定义列
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-04 18:02:02   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/order/orderList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.OrderController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 获取订单列表异常：{"Sign":"","data":{"UserId":"1000600100040","QRConent":null,"TraceCode":null,"IsPay":"1001","OrderId":null,"PageSize":10,"PageIndex":1},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00918: 未明确定义列
+]
+-----------------------------------------------------------------------------------------------------------------------------

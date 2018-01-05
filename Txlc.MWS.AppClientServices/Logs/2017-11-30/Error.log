@@ -1,0 +1,7 @@
+1. 信息: >> 操作时间: 2017-11-30 14:36:59   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/certificate/saveDistrComp    
+3. 类名: Txlc.MWS.AppClientServices.Controller.CerCardController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 保存分销单位异常：{"Sign":"","data":{"DistrCompId":null,"DistrCompName":"asdasd","CreateTime":null,"UserId":"1000600100040","RealName":"魏振东"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00947: 没有足够的值
+]
+-----------------------------------------------------------------------------------------------------------------------------

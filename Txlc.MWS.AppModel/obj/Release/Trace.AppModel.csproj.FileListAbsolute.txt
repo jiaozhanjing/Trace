@@ -1,0 +1,5 @@
+E:\work2\suyuanapp\Txlc.MWS.AppModel\bin\Release\Trace.AppModel.dll
+E:\work2\suyuanapp\Txlc.MWS.AppModel\bin\Release\Trace.AppModel.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Release\Trace.AppModel.dll
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Release\Trace.AppModel.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Release\Trace.AppModel.csprojResolveAssemblyReference.cache

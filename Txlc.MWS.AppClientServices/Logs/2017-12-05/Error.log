@@ -1,0 +1,7 @@
+1. 信息: >> 操作时间: 2017-12-05 18:03:27   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/enter/modifyCheck    
+3. 类名: Txlc.MWS.AppClientServices.Controller.EnterController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 编辑进场检测异常：{"Sign":"","data":{"CheckNum":"6486663","CheckItemCode":"0","CheckItemName":"盐酸克罗多","CheckResult":"合格","SampleName":"猪尿样","SampleCode":"0","SampleNum":2.0,"CheckOfficer":"kko","SampleTime":"2017-12-05","CheckTime":"2017-12-05","EnterId":null,"Id":null,"CheckId":"6ac76a7d6ef44d848907b4850ba8a78a"},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01747: user.table.column, table.column 或列说明无效
+]
+-----------------------------------------------------------------------------------------------------------------------------

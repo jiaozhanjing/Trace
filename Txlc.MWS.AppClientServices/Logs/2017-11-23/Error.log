@@ -1,0 +1,27 @@
+1. 信息: >> 操作时间: 2017-11-23 15:40:20   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/sweep/sweepTrace    
+3. 类名: Txlc.MWS.AppClientServices.Controller.SweepController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 扫码异常：{"Sign":"","data":{"QRconent":"","TraceCode":"33010502646010000027","PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:列“TestingResult”不属于表 temptable。]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-23 15:47:18   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/message/noticeDetail    
+3. 类名: Txlc.MWS.AppClientServices.Controller.MessageController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 公告异常：{"Sign":"","data":{"Id":null,"ImageUrl":null,"ImageLink":null,"NocticeId":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-23 15:48:21   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/message/noticeDetail    
+3. 类名: Txlc.MWS.AppClientServices.Controller.MessageController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 公告异常：{"Sign":"","data":{"Id":null,"ImageUrl":null,"ImageLink":null,"NocticeId":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-23 15:50:03   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/message/noticeDetail    
+3. 类名: Txlc.MWS.AppClientServices.Controller.MessageController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 公告异常：{"Sign":"","data":{"Id":null,"ImageUrl":null,"ImageLink":null,"NoticeId":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------

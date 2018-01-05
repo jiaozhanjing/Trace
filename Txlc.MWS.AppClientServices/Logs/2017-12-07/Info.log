@@ -1,0 +1,30 @@
+1. 信息: >> 操作时间: 2017-12-07 10:33:19   操作人: 15700064998 
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 密码修改成功！
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-07 10:50:15   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 测试：：{"Sign":"","data":{"MobileCode":null,"Password":null,"VerificationCode":null,"UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-07 10:51:36   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 测试：：{"Sign":"","data":{"MobileCode":null,"Password":null,"VerificationCode":null,"UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-07 10:51:59   操作人: 15700064998 
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 测试：：{"Sign":"","data":{"MobileCode":"15700064998","Password":"F5BCDD8D6ACFED47C8856E4F1BD12915","VerificationCode":"440632","UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-07 10:59:11   操作人: 15700064998 
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 测试：：{"Sign":"","data":{"MobileCode":"15700064998","Password":"F5BCDD8D6ACFED47C8856E4F1BD12915","VerificationCode":"440632","UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}
+-----------------------------------------------------------------------------------------------------------------------------

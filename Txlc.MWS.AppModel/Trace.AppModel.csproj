@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A606FE4-1349-440E-8B9D-44FA289383D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Trace.AppModel</RootNamespace>
+    <AssemblyName>Trace.AppModel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseModel.cs" />
+    <Compile Include="BusinessModel\BusinessCompSummaryModel.cs" />
+    <Compile Include="BusinessModel\BusinessDetailModel.cs" />
+    <Compile Include="BusinessModel\BusinessInModel.cs" />
+    <Compile Include="BusinessModel\BusinessSummaryModel.cs" />
+    <Compile Include="CommerceModel\CommerceDataUpModel.cs" />
+    <Compile Include="CommerceModel\CommerceInModel.cs" />
+    <Compile Include="CommerceModel\CommerceReportModel.cs" />
+    <Compile Include="CommerceModel\CommerceScoreModel.cs" />
+    <Compile Include="CommerceModel\CommerceStandardModel.cs" />
+    <Compile Include="CommerceModel\ComStandCompModel.cs" />
+    <Compile Include="CommerceModel\StandardCompModel.cs" />
+    <Compile Include="CommonModel\SmsModel.cs" />
+    <Compile Include="DataUpModel\DataUpAllInfoModel.cs" />
+    <Compile Include="DataUpModel\DataUpCompListModel.cs" />
+    <Compile Include="DataUpModel\DataUpComposeDetailModel.cs" />
+    <Compile Include="DataUpModel\DataUpComposeModel.cs" />
+    <Compile Include="DataUpModel\DataUpGrowModel.cs" />
+    <Compile Include="DataUpModel\DataUpInModel.cs" />
+    <Compile Include="DataUpModel\DataUpQualityModel.cs" />
+    <Compile Include="DataUpModel\DataUpStandardListModel.cs" />
+    <Compile Include="EquModel\EquInModel.cs" />
+    <Compile Include="EquModel\EquTotalModel.cs" />
+    <Compile Include="EquModel\EquUserDetailModel.cs" />
+    <Compile Include="EquModel\EquUserModel.cs" />
+    <Compile Include="LoginModel\LoginInModel.cs" />
+    <Compile Include="LoginModel\LoginOutModel.cs" />
+    <Compile Include="MessageModel\NoticeInModel.cs" />
+    <Compile Include="MessageModel\NoticeModel.cs" />
+    <Compile Include="NodeModel\NodeCompSummaryModel.cs" />
+    <Compile Include="NodeModel\NodeInfoModel.cs" />
+    <Compile Include="NodeModel\NodelInModel.cs" />
+    <Compile Include="NodeModel\NodeSummaryModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RetailModel\RetailDetailModel.cs" />
+    <Compile Include="RetailModel\RetailInModel.cs" />
+    <Compile Include="RetailModel\RetailBaseModel.cs" />
+    <Compile Include="SweepModel\SweepModel.cs" />
+    <Compile Include="TraceModel\BaseNodeModel.cs" />
+    <Compile Include="TraceModel\EnterBaseInfoModel.cs" />
+    <Compile Include="TraceModel\EnterCompModel.cs" />
+    <Compile Include="TraceModel\EnterDetailInfoModel.cs" />
+    <Compile Include="TraceModel\EnterInModel.cs" />
+    <Compile Include="TraceModel\TraceModel.cs" />
+    <Compile Include="TrendModel\TrendInModel.cs" />
+    <Compile Include="TrendModel\TrendOutModel.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

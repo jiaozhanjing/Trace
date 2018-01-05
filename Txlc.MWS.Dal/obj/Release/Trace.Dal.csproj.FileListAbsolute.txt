@@ -1,0 +1,5 @@
+E:\work2\suyuanapp\Txlc.MWS.Dal\bin\Release\Txlc.MWS.Dal.dll
+E:\work2\suyuanapp\Txlc.MWS.Dal\bin\Release\Txlc.MWS.Dal.pdb
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Release\Txlc.MWS.Dal.dll
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Release\Txlc.MWS.Dal.pdb
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Release\Trace.Dal.csprojResolveAssemblyReference.cache

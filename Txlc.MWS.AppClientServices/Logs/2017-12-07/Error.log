@@ -1,0 +1,14 @@
+1. 信息: >> 操作时间: 2017-12-07 10:50:24   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 密码修改异常：{"Sign":"","data":{"MobileCode":null,"Password":null,"VerificationCode":null,"UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-07 10:51:38   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/login/modifyPassword    
+3. 类名: Txlc.MWS.AppClientServices.Controller.LoginController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 密码修改异常：{"Sign":"","data":{"MobileCode":null,"Password":null,"VerificationCode":null,"UserId":null,"IdNumber":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.Dal\bin\Release\Txlc.MWS.Dal.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.Dal\bin\Release\Txlc.MWS.Dal.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.Dal\obj\Release\Txlc.MWS.Dal.csprojResolveAssemblyReference.cache
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.Dal\obj\Release\Txlc.MWS.Dal.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.Dal\obj\Release\Txlc.MWS.Dal.pdb

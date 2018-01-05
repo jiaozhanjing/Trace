@@ -1,0 +1,14 @@
+1. 信息: >> 操作时间: 2017-11-29 16:24:15   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/order/todaySweepOrderList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.OrderController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 扫描当天订单异常：{"Sign":"","data":{"UserId":"1000600100040","QRConent":null,"TraceCode":"33010502646010000043","PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-11-29 16:24:48   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/order/todaySweepOrderList    
+3. 类名: Txlc.MWS.AppClientServices.Controller.OrderController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 扫描当天订单异常：{"Sign":"","data":{"UserId":"1000600100040","QRConent":null,"TraceCode":"33010502646010000043","PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------

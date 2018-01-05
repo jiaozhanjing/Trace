@@ -1,0 +1,5 @@
+E:\work2\suyuanapp\Txlc.MWS.Dal\bin\Debug\Txlc.MWS.Dal.dll
+E:\work2\suyuanapp\Txlc.MWS.Dal\bin\Debug\Txlc.MWS.Dal.pdb
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Debug\Txlc.MWS.Dal.dll
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Debug\Txlc.MWS.Dal.pdb
+E:\work2\suyuanapp\Txlc.MWS.Dal\obj\Debug\Trace.Dal.csprojResolveAssemblyReference.cache

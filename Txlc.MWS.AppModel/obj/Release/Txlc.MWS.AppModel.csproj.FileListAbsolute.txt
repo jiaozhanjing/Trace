@@ -1,0 +1,5 @@
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppModel\bin\Release\Txlc.MWS.AppModel.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppModel\bin\Release\Txlc.MWS.AppModel.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppModel\obj\Release\Txlc.MWS.AppModel.dll
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppModel\obj\Release\Txlc.MWS.AppModel.pdb
+E:\work\TxlcMWS\Develop\SourceCode\trunk\Applicaion\APP\Txlc.MWS.AppModel\obj\Release\Txlc.MWS.AppModel.csprojResolveAssemblyReference.cache

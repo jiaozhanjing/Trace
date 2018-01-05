@@ -1,0 +1,36 @@
+1. 信息: >> 操作时间: 2017-12-14 12:02:04   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/business/businessDetail    
+3. 类名: Trace.AppServices.Controller.BusinessController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取经营户列表异常：{"Sign":"","data":{"CompTypeCode":null,"CompCode":"330102020","LegalPerson":null,"PageSize":10,"PageIndex":1,"UserId":null},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'PRO_BUS_DETAIL' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-14 15:22:53   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/node/nodeCompSummary    
+3. 类名: Trace.AppServices.Controller.NodeController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取经营节点异常：{"Sign":"","data":{"CompTypeCode":null,"CompCode":"330110006","PageSize":0,"PageIndex":0,"UserId":null},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-14 15:23:11   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/node/nodeInfo    
+3. 类名: Trace.AppServices.Controller.NodeController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取经营节点详细异常：{"Sign":"","data":{"CompTypeCode":null,"CompCode":"330110006","PageSize":0,"PageIndex":0,"UserId":null},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-00904: "COMPPROFILE": 标识符无效
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-14 17:15:06   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/commerceScore    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取考核总得分异常：{"Sign":"","data":{"CheckMonth":null,"CheckYear":"2017","PageSize":0,"PageIndex":0,"UserId":null},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:未将对象引用设置到对象的实例。]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-14 17:15:51   操作人:  
+2. 地址: http://localhost:17694/hzsy/api/commerce/commerceScore    
+3. 类名: Trace.AppServices.Controller.CommerceController 
+4. Ip  :    主机: localhost:17694   浏览器:     
+5. 内容: 获取考核总得分异常：{"Sign":"","data":{"CheckMonth":null,"CheckYear":"2017","PageSize":0,"PageIndex":0,"UserId":null},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:未将对象引用设置到对象的实例。]
+-----------------------------------------------------------------------------------------------------------------------------

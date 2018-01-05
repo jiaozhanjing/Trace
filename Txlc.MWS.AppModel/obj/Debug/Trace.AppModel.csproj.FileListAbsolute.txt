@@ -1,0 +1,5 @@
+E:\work2\suyuanapp\Txlc.MWS.AppModel\bin\Debug\Trace.AppModel.dll
+E:\work2\suyuanapp\Txlc.MWS.AppModel\bin\Debug\Trace.AppModel.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Debug\Trace.AppModel.dll
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Debug\Trace.AppModel.pdb
+E:\work2\suyuanapp\Txlc.MWS.AppModel\obj\Debug\Trace.AppModel.csprojResolveAssemblyReference.cache

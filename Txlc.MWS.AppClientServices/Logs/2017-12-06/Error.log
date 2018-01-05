@@ -1,0 +1,14 @@
+1. 信息: >> 操作时间: 2017-12-06 09:55:48   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/enter/deleteEnter    
+3. 类名: Txlc.MWS.AppClientServices.Controller.EnterController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 删除进场异常：{"Sign":"","data":{"UserId":"1000600100040","EnterMonth":null,"RealName":null,"Id":null,"AreaCode":null,"EnterId":"3c15582b415e49bcbcc752c91d693318","CheckId":null,"PageSize":0,"PageIndex":0},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01036: 非法的变量名/编号
+]
+-----------------------------------------------------------------------------------------------------------------------------
+1. 信息: >> 操作时间: 2017-12-06 10:08:12   操作人:  
+2. 地址: http://localhost:17693/txlc/api/client/enter/deleteEnter    
+3. 类名: Txlc.MWS.AppClientServices.Controller.EnterController 
+4. Ip  :    主机: localhost:17693   浏览器:     
+5. 内容: 删除进场异常：{"Sign":"","data":{"UserId":"1000600100040","EnterMonth":null,"RealName":null,"Id":null,"AreaCode":null,"EnterId":null,"CheckId":null,"PageSize":10,"PageIndex":1},"DateTime":"","Random":"","DeviceId":"","Token":"","SessionId":"","AppVersion":"","ChannelId":"","SystemType":""}[异常信息:ORA-01008: 并非所有变量都已绑定
+]
+-----------------------------------------------------------------------------------------------------------------------------
